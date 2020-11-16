@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SLogs", "SLogs\SLogs.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SUsers", "SUsers\SUsers.csproj", "{020DFFB4-F9C8-4D74-B935-2831FA42876F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SUP-CRM", "SUP-CRM\SUP-CRM.csproj", "{FE92AFD5-EFFD-4A3F-85A2-D991063B65B7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{020DFFB4-F9C8-4D74-B935-2831FA42876F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{020DFFB4-F9C8-4D74-B935-2831FA42876F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{020DFFB4-F9C8-4D74-B935-2831FA42876F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE92AFD5-EFFD-4A3F-85A2-D991063B65B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE92AFD5-EFFD-4A3F-85A2-D991063B65B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE92AFD5-EFFD-4A3F-85A2-D991063B65B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE92AFD5-EFFD-4A3F-85A2-D991063B65B7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
